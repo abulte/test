@@ -1,0 +1,3 @@
+[submodule "flask-quickstart"]
+	path = flask-quickstart
+	url = https://github.com/abulte/flask-quickstart.git
